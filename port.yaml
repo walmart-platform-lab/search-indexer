@@ -1,0 +1,8 @@
+identifier: search-indexer
+title: Search Indexer
+blueprint: service
+properties:
+  language: java
+  tier: tier2
+relations:
+  owner: team-fulfillment
