@@ -1,4 +1,4 @@
-identifier: search-indexer
+identifier: search-indexer 
 title: Search Indexer
 blueprint: service
 properties:
