@@ -4,6 +4,5 @@ blueprint: service
 properties:
   language: java
   tier: tier2
-  compliance_level: pilot
 relations:
   owner: team-fulfillment
