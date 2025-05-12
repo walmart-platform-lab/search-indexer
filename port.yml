@@ -7,5 +7,3 @@ properties:
   compliance_level: pilot
 relations:
   owner: team-fulfillment
-metadata:
-  last_updated_by: matt
