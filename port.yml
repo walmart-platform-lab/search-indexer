@@ -3,6 +3,6 @@ title: Search Indexer
 blueprint: service
 properties:
   language: java
-  tier: tier2
+  tier: tier1
 relations:
   owner: team-fulfillment
