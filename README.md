@@ -11,3 +11,6 @@ Indexes product catalog data and handles synchronization with Walmart’s intern
 - Team: fulfillment
 - Tier: backend
 - Runtime: java
+
+## Port Ingestion
+- Test: trying to force reingestion trigger in Port
