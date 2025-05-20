@@ -4,5 +4,7 @@ blueprint: service
 properties:
   language: java
   tier: tier1
+  readme: .readme
+  freshness: .freshness
 relations:
   owner: team-fulfillment
