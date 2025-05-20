@@ -3,7 +3,7 @@ title: Search Indexer
 blueprint: service
 properties:
   language: java
-  tier: tier1
+  tier: tier2
   readme: .readme
   freshness: .freshness
 relations:
